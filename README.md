@@ -1,4 +1,5 @@
 Online Shop Management System
+
 This project is a basic online shop management system developed using PHP. It allows users to manage products in an online store, including adding, editing, deleting, and viewing products. The system is structured using a custom, MVC-inspired micro-framework, and utilizes MySQL for database management.
 
 Table of Contents
